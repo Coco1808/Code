@@ -15,5 +15,6 @@ int sum (int a, int b)
 {
 	int s;
 	s=a+b;
+	printf("my result is : %d \n", s);
     return s; 
 }
