@@ -8,9 +8,7 @@ int main()
 {
     int num;
     double n;
-	printf("\n\n Function : find square of any number :\n");
-	printf("------------------------------------------------\n");	
-     
+	
     printf("Input any number for square : ");
     scanf("%d", &num);
     n = square(num);
